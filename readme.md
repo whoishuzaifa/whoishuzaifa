@@ -1,15 +1,15 @@
 
 # 👋 Hello, I'm Huzaifa
 
--🎓 First-year BSIS student at NCB Lahore
--💻 Aspiring Software Developer
--🌱 Eager to learn and contribute to the tech community
+\n🎓 First-year BSIS student at NCB Lahore
+\n💻 Aspiring Software Developer
+\n🌱 Eager to learn and contribute to the tech community
 
 
-🚀 About Me
--I'm passionate about technology and its potential to solve real-world problems. As I embark on my journey in software development, I'm committed to continuous learning and growth.
+🚀 About Me\n
+\n-I'm passionate about technology and its potential to solve real-world problems. As I embark on my journey in software development, I'm committed to continuous learning and growth.
 
-🛠️ Skills & Tools
+🛠️ Skills & Tools\n
 -Languages: Python, JavaScript (learning in progress)
 
 
